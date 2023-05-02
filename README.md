@@ -1,2 +1,11 @@
 # Airline-Data-Analysis
+# Abstract
 Analyzing airports and days of week with maximum and least number of arrival/departure delays 
+This study discusses in detail the airports which suffer with frequent departure and arrival delays, during what days of the week and month the delays are maximum, and the possible reasons that are causing these delays. The study was conducted by analyzing a dataset of over 600,000 flight records from 2008. The dataset included information on the departure and arrival times of flights, the airports involved, the airlines operating the flights, and the reasons for any delays. 
+The study found that Thursdays and Sundays of the week had the highest rates of departure and arrival delays.
+The study identified the following as the possible reasons for the delays: Carrier, NAS, Weather, Aircraft Delay. The study also found that data visualization and grouping were essential to the analysis. Data visualization helped to identify patterns in the data that would not have been apparent otherwise. Grouping helped to shorten the data set and make it easier to analyze.
+
+# Conclusion and summary
+Throughout this project, I have encountered several errors and problems due to large amount of data set, regardless I have come up with several different approaches such as categorizing data based on maximum, minimum delays which eventually made my analysis easier in understanding the data and finding the airports/ air routes with maximum and minimum number of delays. Being it a airline data, which requires more analysis rather than clustering the data, I have primarily focused on analyzing and sub sectioning the data set by analyzing smaller data sets with feature selection by least and highest departure/arrival delays. The data and finding the results from them. In discovering the relationship between airtime and delays, I have used K means Clustering to see the similarity of points and came to discover an interesting renown finding. In the later part, I have found the weekdays and what days in a month have the most and least number of delays based on grouping the data.
+All the conclusions and results have been mentioned in the earlier sections under the Data visualization and results along with the substantial proofs.
+
